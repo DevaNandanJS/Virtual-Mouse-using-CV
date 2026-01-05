@@ -1,4 +1,4 @@
-AI Virtual Mouse
+**AI Virtual Mouse**
 
 A computer vision-based application that allows users to control their mouse cursor and perform clicks using hand gestures. This project leverages MediaPipe for robust hand tracking and geometric heuristics to interpret specific gestures as mouse actions.
 
